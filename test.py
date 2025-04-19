@@ -27,7 +27,7 @@ def replace_text_in_files(url_to_replace, new_url, extensions):
 if __name__ == "__main__":
     old_url_https = "https://qb3z.mhedu.sh.cn/"
     old_url_http = "http://qb3z.mhedu.sh.cn/"
-    new_url = "https://qb3z.qinzhengyuqszzlyj.us.kg/"
+    new_url = "https://qb3z.19870310.xyz/"
     extensions = ['.html', '.htm']
     replace_text_in_files(old_url_https, new_url, extensions)
     replace_text_in_files(old_url_http, new_url, extensions)
